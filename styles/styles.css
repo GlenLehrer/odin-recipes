@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    background-color:antiquewhite;
+}
+#Nav{
+    list-style-type: none; 
+}
+h1{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    font-size: 14px;
+    padding: 5px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:green
+}
+a:visited{
+    color:gray;
+}
